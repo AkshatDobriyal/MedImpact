@@ -1,2 +1,2 @@
 # MedImpact - One stop destination for all medical needs
-HackIIITV 2021 Project
+HackIIITV 2021
